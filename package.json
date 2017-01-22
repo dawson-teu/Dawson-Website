@@ -1,0 +1,20 @@
+{
+  "name": "dawson-website",
+  "version": "0.0.1",
+  "description": "Dawson's Website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Website",
+    "Dawson"
+  ],
+  "author": "Dawson Teu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "pug": "^2.0.0-beta6"
+  }
+}
